@@ -100,7 +100,7 @@ main {
     max-width: 80%;
     height: auto;
     border-radius: 20px;
-    background-image: url('/osis-eliezer/image/Jadwal-mapel.jpg');
+    background-image: url('/image/Jadwal-mapel.jpg');
     position: relative;
     background-position: bottom;
 }
