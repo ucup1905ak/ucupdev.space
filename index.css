@@ -89,7 +89,7 @@ main {
 }
 
 .home-background {
-  background-image: url("/osis-eliezer/image/home-background.jpg");
+  background-image: url("/image/home-background.jpg");
   background-position: top; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
